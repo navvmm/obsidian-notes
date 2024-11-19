@@ -24,3 +24,4 @@ Uses the 2.4GHz range
 Short Range
 - Most consumer devices operate to about 10 meters
 - Industrial Bluetooth devices can communicate over 100 meters
+
