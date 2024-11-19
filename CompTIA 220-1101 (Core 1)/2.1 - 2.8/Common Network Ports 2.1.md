@@ -146,3 +146,5 @@ Remote Desktop Services on many Windows versions
 Can connect to an entire desktop or just an application
 
 Clients for Windows, macOS, Linux, Unix, iPhone, Android, and others
+
+TCP - Transmission Control Protocol
