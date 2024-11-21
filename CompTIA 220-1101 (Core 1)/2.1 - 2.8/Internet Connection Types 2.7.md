@@ -40,4 +40,43 @@ Data on the "cable" network
 High-speed networking
 - 50 Mbit/s through 1000 + Mbit/s are common
 
-Multiple 
+Multiple services
+- Data, voice, video
+---
+**-- DSL --**
+ADSL (Asymmetric Digital Subscriber Line)
+- Uses telephone lines
+
+Download speed is faster than the upload speed (asymmetric)
+- 200 Mbit/s downstream / 20 Mbit/s upstream are common
+- ~10,000 foot limitation from the central office (CO)
+- Faster speeds may be possible if closer to the CO
+---
+**-- Cellular networks --**
+Mobile devices
+- "Cell" phones
+
+Separate land into "cells"
+- Antenna coverages a cell with certain frequencies
+
+Tethering
+- Turn your phone into a wireless router
+
+Mobile hotspot
+- Standalone device
+- Use your phone for other things
+---
+**-- WISP --**
+Wireless Internet Service Provider
+- Terrestrial internet access using wireless
+
+Connect rural or remote locations
+- Internet access for everyone
+
+Many different deployment technologies
+- Meshed 802.11
+- 5G home internet
+- Proprietary wireless
+
+Need an outdoor antenna
+- Speeds can range from ~10 to 1000 megabits per second
