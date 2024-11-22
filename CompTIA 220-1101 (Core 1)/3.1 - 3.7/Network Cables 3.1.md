@@ -16,3 +16,9 @@ Balanced pair operation
 The twist is the secret!
 - Keeps a single wire constantly moving away from the interference
 - The opposite signals are compared on the other end
+
+Pairs in the same cable have different twist rates
+
+---
+**-- Copper cable categories --**
+![[Pasted image 20241122142102.png]]
