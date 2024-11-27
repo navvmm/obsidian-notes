@@ -57,3 +57,16 @@ File blocks are striped
 
 Efficient use of disk space
 - Files aren't duplicated, but space is still used for parity
+
+High redundancy
+- Data is available after drive failure
+- Parity calculation may affect performance
+---
+**-- RAID 10 (1+0) - A stripe of mirrors --**
+The speed of striping, the redundancy of mirroring
+- The best of both worlds
+
+Need at least 4 drives
+
+![[Pasted image 20241127123254.png]]
+
