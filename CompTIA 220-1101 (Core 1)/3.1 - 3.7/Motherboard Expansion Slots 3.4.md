@@ -25,3 +25,9 @@ Also known as PCIe
 - Replaces the older PCI standard
 
 Communicates serially
+- Unidirectional serial "lanes"
+- Slower devices don't slow down everyone
+
+One, two, four, eight, sixteen, or thirty-two full-duplex lanes
+- x1, x2, x4, x8, x16, x32 
+- "x" is pronounced "by" ("by 4," "by 16")
