@@ -61,3 +61,19 @@ You need mechanisms to "flip" the page
 
 Can be built-in to the printer
 - Or available as an add on
+---
+**-- Steps --**
+1. Processing
+	- Nothing is moving, sending data to the printer itself.
+2. Charging
+	- A charge roller provides a negative charge to the drum and clears the drum to prepare the image provided by the laser.
+3. Exposing
+	- The laser begins writing the image to the photosensitive drum. The laser is creating a positive charge to the drum.
+4. Developing
+	- Toner in a toner cartridge is negatively charged will stick to the positively charged sections exposed by the laser.
+5. Transferring
+	- Transferring of the toner from the drum onto the paper.
+6. Fusing
+	- Paper passes through the fuser applying heat and pressure that melts the toner to permanently attach to the paper.
+7. Cleaning
+	- Might be some excess toner on the drum so the cleaning phase removes and excess toner that is on the drum.
